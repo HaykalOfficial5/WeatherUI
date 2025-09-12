@@ -1,7 +1,7 @@
 name: WeatherUI
 author: Haykal3984
 api: 5.0.0
-version: 1.2.0
+version: 1.5.0
 main: weather\haykal3984\main
 
 commands:
